@@ -7,15 +7,10 @@ This is a page that I created in order to showcase my skills.
 
 Add resume link remove address gpa and any other sensitive information
 
-Add linkedin link
-
 Add professional photo and add it to linkedin as well
 
 Update linkedin lol
 
-Resize photos
-
-Add github link 
 
 
   long term

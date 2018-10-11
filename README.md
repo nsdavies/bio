@@ -5,12 +5,7 @@ This is a page that I created in order to showcase my skills.
   To do
 
 
-Add resume link remove address gpa and any other sensitive information
-
 Add professional photo and add it to linkedin as well
-
-Update linkedin lol
-
 
 
   long term

@@ -1,16 +1,11 @@
 # Personal Website
 
-This is a page that I created in order to showcase my skills.
+This is a page that I created for fun to as a showcase for my projects
 
-  To do
-
-
-
-
-  long term
+  To do:
+    Update every term with relevant information
 
 
-Change colors
-
-Either add more projects or add work experience or something to fill the 3 empty boxes
+  long term:
+    Change colors
 
